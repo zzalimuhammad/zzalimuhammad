@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzalimuhammad
-- 👀 I’m interested in EmpededSystem
+- 👀 I’m interested in embedded system
 - 🌱 I’m currently learning Computer Engeering
 - 📫 How to reach me Feel free to send me a message
 
